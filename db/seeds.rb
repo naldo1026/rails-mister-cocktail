@@ -12,7 +12,3 @@ Ingredient.create(name: "mint leaves")
 Cocktail.create(name: "Mojito")
 Cocktail.create(name: "Whiskey Sour")
 Cocktail.create(name: "Mint Julep")
-
-Dose.create(description: "Has vodka in")
-Dose.create(description: "Has whiskey in")
-Dose.create(description: "Has mint leaves in")
