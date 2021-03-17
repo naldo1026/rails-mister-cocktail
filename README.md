@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* An app where you can create cocktails and post them on this website for the world to see
